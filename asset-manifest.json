@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/cativity/static/js/main.a7acd04d.js",
+    "main.js": "/cativity/static/js/main.e27f0cc9.js",
     "static/js/453.f199aa94.chunk.js": "/cativity/static/js/453.f199aa94.chunk.js",
     "index.html": "/cativity/index.html",
-    "main.a7acd04d.js.map": "/cativity/static/js/main.a7acd04d.js.map",
+    "main.e27f0cc9.js.map": "/cativity/static/js/main.e27f0cc9.js.map",
     "453.f199aa94.chunk.js.map": "/cativity/static/js/453.f199aa94.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a7acd04d.js"
+    "static/js/main.e27f0cc9.js"
   ]
 }
