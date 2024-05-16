@@ -1,0 +1,3 @@
+ yarn create react-app .
+ yarn add firebase
+yarn add gh-pages
