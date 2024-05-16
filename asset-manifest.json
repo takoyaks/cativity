@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/cativity/static/js/main.e27f0cc9.js",
-    "static/js/453.f199aa94.chunk.js": "/cativity/static/js/453.f199aa94.chunk.js",
-    "index.html": "/cativity/index.html",
-    "main.e27f0cc9.js.map": "/cativity/static/js/main.e27f0cc9.js.map",
-    "453.f199aa94.chunk.js.map": "/cativity/static/js/453.f199aa94.chunk.js.map"
+    "main.js": "/dict-cativity/static/js/main.a9f0e055.js",
+    "static/js/453.f199aa94.chunk.js": "/dict-cativity/static/js/453.f199aa94.chunk.js",
+    "index.html": "/dict-cativity/index.html",
+    "main.a9f0e055.js.map": "/dict-cativity/static/js/main.a9f0e055.js.map",
+    "453.f199aa94.chunk.js.map": "/dict-cativity/static/js/453.f199aa94.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e27f0cc9.js"
+    "static/js/main.a9f0e055.js"
   ]
 }
